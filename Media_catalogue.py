@@ -96,3 +96,4 @@ except ValueError as e:
 except MediaError as e:
     print(f'Media Error: {e}')
     print(f'Unable to add {e.obj}: {type(e.obj)}')
+    
