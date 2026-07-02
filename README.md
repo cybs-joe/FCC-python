@@ -37,8 +37,8 @@ This repository contains my personal solutions to the hands-on labs and workshop
 | Dictionaries and Sets | ✅ Complete |
 | Error Handling | ✅ Complete |
 | Classes and Objects | ✅ Complete |
-| Object-Oriented Programming (OOP) | 🔄 In Progress |
-| Linear Data Structures | ⬜ Not Started |
+| Object-Oriented Programming (OOP) | ✅ Complete |
+| Linear Data Structures | 🔄 In Progress |
 
 **Certification Projects:**
 
@@ -46,8 +46,8 @@ This repository contains my personal solutions to the hands-on labs and workshop
 |---------|--------|
 | Build a User Configuration Manager | ✅ Complete |
 | Build a Budget App | ✅ Complete |
-| Build a Polygon Area Calculator | 🔄 Upcoming |
-| Remaining projects | ⬜ Locked |
+| Build a Polygon Area Calculator | ✅ Complete  |
+| Remaining projects | 🔄 Upcoming |
 
 ---
 
