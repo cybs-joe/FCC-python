@@ -46,8 +46,8 @@ This repository contains my personal solutions to the hands-on labs and workshop
 |---------|--------|
 | Build a User Configuration Manager | ✅ Complete |
 | Build a Budget App | ✅ Complete |
-| Build a Polygon Area Calculator | 🔄 Upcoming |
-| Remaining projects | ⬜ Locked |
+| Build a Polygon Area Calculator | ✅ Complete  |
+| Remaining projects | 🔄 Upcoming |
 
 ---
 
