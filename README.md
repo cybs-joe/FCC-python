@@ -38,7 +38,7 @@ This repository contains my personal solutions to the hands-on labs and workshop
 | Error Handling | ✅ Complete |
 | Classes and Objects | ✅ Complete |
 | Object-Oriented Programming (OOP) | ✅ Complete |
-| Linear Data Structures | 🔄 In Progress |
+| Linear Data Structures | ✅ Complete |
 
 **Certification Projects:**
 
